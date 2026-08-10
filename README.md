@@ -14,3 +14,7 @@ Titre du commit
 
 Descripion du commit
 ```
+## creation d'une nouvelle branche 
+```bash 
+git checkout -b develop
+```
