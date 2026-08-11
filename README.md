@@ -12,7 +12,7 @@ git remote add origin https_du repo
 ```
 Titre du commit 
 
-un commentaire nouveau
+Descripion du nouveau commentaire
 ```
 ## creation d'une nouvelle branche 
 ```bash 
